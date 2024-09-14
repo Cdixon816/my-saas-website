@@ -1,0 +1,7 @@
+<!-- Hero Background Image -->
+<section class="hero">
+    <!-- Background image is set via CSS -->
+</section>
+
+<!-- Feature Image -->
+<img src="images/feature1.png" alt="Feature 1">
