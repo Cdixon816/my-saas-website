@@ -1,0 +1,4 @@
+.hero {
+    background: url('images/hero-bg.jpg') center/cover no-repeat;
+    /* Rest of the styles */
+}
